@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2400" height="180" viewBox="0 0 2400 180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <!-- Wide seamless wave: adjust control points for amplitude / wavelength -->
+  <path d="M0 90
+           C 300 40  600 140  900 90
+           C 1200 40 1500 140 1800 90
+           C 2100 40 2400 140 2700 90
+           L2400 180 L0 180 Z"
+        fill='currentColor'/>
+</svg>
